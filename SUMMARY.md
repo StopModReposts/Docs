@@ -11,3 +11,7 @@
 
 * [What is the Report API?](report-api/what-is-the-report-api.md)
 * [Requests](report-api/requests.md)
+
+## 📖 Guides
+
+* [Takedown using DMCA](guides/takedown-using-dmca.md)
