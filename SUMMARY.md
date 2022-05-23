@@ -6,3 +6,8 @@
 
 * [What is the Sites API?](sites-api/what-is-the-sites-api.md)
 * [Requests](sites-api/requests.md)
+
+## ⚙ Report API
+
+* [What is the Report API?](report-api/what-is-the-report-api.md)
+* [Requests](report-api/requests.md)
